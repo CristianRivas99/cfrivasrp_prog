@@ -1,0 +1,57 @@
+.contenedor_menu{
+    height: 160px;
+    width: 1380px;
+    background: rgba(1, 15, 48, 0.822);
+}
+.menu1{
+
+    height: 30px;
+    width: 900px;
+    background: rgb(3, 107, 148);
+}
+.menu2{
+    height: 30px;
+    width: 600px;
+    background: rgb(4, 107, 148);
+}
+.cuenquita{
+    height: 100px;
+    width: 600px;
+    left: 300px;
+}
+.contenedor_p{
+    height: 450px;
+    width: 1380px;
+    background: rgb(236, 231, 201);
+}
+.cuadrado1{
+    height: 420px;
+    width: 600px;
+    background: rgb(190, 209, 235); 
+}
+.titulo2{
+    height: 50px;
+    width: 600px;
+    background: rgb(173, 143, 228); 
+    top: -300px;
+}
+.titulo2{
+    height: 50px;
+    width: 600px;
+    background: rgb(173, 143, 228); 
+    top: -300px;
+}
+.cuadrado2{
+    height: 50px;
+    width: 600px;
+    background: rgb(173, 143, 228); 
+    position: relative;
+    left: 780px;
+    top: -441px;
+}
+.parrafo2{
+     height: 365px;
+    width: 600px;
+    background: rgb(190, 209, 235); 
+    top: 500px;
+}
